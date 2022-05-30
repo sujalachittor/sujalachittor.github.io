@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My CIT 281 Work Portfolio
 
 You can use the [editor on GitHub](https://github.com/sujalachittor/sujalachittor.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# CIT 281 Labs and Projects
+
+## Labs
+### Lab 1
+### Lab 2
+### Lab 3
+
+## Projects
+### Project 1
+### Project 2
+### Project 3
 
 - Bulleted
 - List
