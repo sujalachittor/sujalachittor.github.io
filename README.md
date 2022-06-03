@@ -21,7 +21,7 @@ Syntax highlighted code block
 ## Projects
 ### Project 1
 
-[Project 1](https://sujalachittor.github.io/cit281-p1)
+ [Project 1](https://sujalachittor.github.io/cit281-p1)
 
 ### Project 2
 ### Project 3
