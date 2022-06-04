@@ -27,17 +27,13 @@ Syntax highlighted code block
 
 ## Projects
 ### Project 1
+[Project 1](https://sujalachittor.github.io/cit281-p1)
 ### Project 2
 ### Project 3
 ### Project 4
 ### Project 5
 ### Project 6
 ### Project 7
-
-[Project 1](https://sujalachittor.github.io/cit281-p1)
-
-### Project 2
-### Project 3
 
 - Bulleted
 - List
