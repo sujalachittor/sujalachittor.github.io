@@ -16,6 +16,7 @@ Syntax highlighted code block
 
 ## Labs
 ### Lab 1
+- This lab involved downloading and setting up the software tools needed for this course and practicing using software tools, terminal or shell commands, keyboard shortcuts, and creating your first Node.js JavaScript file on the server-side. [Lab 1]()
 ### Lab 2
 ### Lab 3
 ### Lab 4
