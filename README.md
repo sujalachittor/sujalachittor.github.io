@@ -1,5 +1,7 @@
 ## My CIT 281 Work Portfolio
 
+This is my work portfolio for CIT 281. 
+
 You can use the [editor on GitHub](https://github.com/sujalachittor/sujalachittor.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -16,9 +18,21 @@ Syntax highlighted code block
 ### Lab 1
 ### Lab 2
 ### Lab 3
+### Lab 4
+### Lab 5
+### Lab 6
+### Lab 7
+### Lab 8
+### Lab 9
 
 ## Projects
 ### Project 1
+### Project 2
+### Project 3
+### Project 4
+### Project 5
+### Project 6
+### Project 7
 
 [Project 1](https://sujalachittor.github.io/cit281-p1)
 
