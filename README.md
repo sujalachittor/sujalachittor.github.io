@@ -4,14 +4,14 @@
 
 ## Labs
 ### Lab 1
-- I set up and installed the necessary software tools on my computer. Please click on this link to view my code and other information related to Lab 1: [Lab 1](https://github.com/sujalachittor/cit281-lab1.git)
+- I set up and installed the necessary software tools on my computer. Please click on this link to view my code and other information related to Lab 1: [Lab 1](https://sujalachittor.github.io/cit281-lab1/)
 ### Lab 2
-- Using CLI commands for directory and file manipulation and git commands. Please click on this link to view my code and other information related to Lab 2: [Lab 2](https://github.com/sujalachittor/cit281-lab2)
+- Using CLI commands for directory and file manipulation and git commands. Please click on this link to view my code and other information related to Lab 2: [Lab 2](https://sujalachittor.github.io/cit281-lab2/)
 ### Lab 3
 -  Practice refactoring JavaScript code, destructuring an object, and converting normal functions into arrow function expressions.
-Please click on this link to view my code and other information related to Lab 3[Lab 3](https://github.com/sujalachittor/cit281-lab3)
+Please click on this link to view my code and other information related to Lab 3[Lab 3](https://sujalachittor.github.io/cit281-lab3/)
 ### Lab 4
-- Create initial web server for Fastify Node.js and add fastify to project using npm. [Lab 4](https://github.com/sujalachittor/cit281-lab4)
+- Create initial web server for Fastify Node.js and add fastify to project using npm. [Lab 4](https://sujalachittor.github.io/cit281-lab4/)
 ### Lab 5
 - Use GET for creating a Node.js and fastify server application and respond with JSON. [Lab 5](https://github.com/sujalachittor/cit281-lab5)
 ### Lab 6
