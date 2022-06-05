@@ -4,7 +4,7 @@
 
 ## Labs
 ### Lab 1
-- This lab involved downloading and setting up the software tools needed for this course and practicing using software tools, terminal or shell commands, keyboard shortcuts, and creating your first Node.js JavaScript file on the server-side. Please click on this link to view my code and other information related to Lab 1: [Lab 1](https://github.com/sujalachittor/cit281-lab1)
+- This lab involved downloading and setting up the software tools needed for this course and practicing using software tools, terminal or shell commands, keyboard shortcuts, and creating your first Node.js JavaScript file on the server-side. Please click on this link to view my code and other information related to Lab 1: [Lab 1](https://github.com/sujalachittor/cit281-lab1.git)
 ### Lab 2
 - This lab involved using CLI commands for directory and file manipulation as well as for git commands. The lab incorporated steps such as adding a file to git, ignoring files, and cloning cloud repos locally. Please click on this link to view my code and other information related to Lab 2: [Lab 2](https://github.com/sujalachittor/cit281-lab2)
 ### Lab 3
