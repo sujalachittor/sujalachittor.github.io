@@ -11,7 +11,7 @@
 - Using CLI commands for directory and file manipulation and git commands. Please click on this link to view my code and other information related to Lab 2: [Lab 2](https://sujalachittor.github.io/cit281-lab2/)
 ### Lab 3
 -  Practice refactoring JavaScript code, destructuring an object, and converting normal functions into arrow function expressions.
-Please click on this link to view my code and other information related to Lab 3[Lab 3](https://sujalachittor.github.io/cit281-lab3/)
+Please click on this link to view my code and other information related to Lab 3 [Lab 3](https://sujalachittor.github.io/cit281-lab3/)
 ### Lab 4
 - Create initial web server for Fastify Node.js and add fastify to project using npm. [Lab 4](https://sujalachittor.github.io/cit281-lab4/)
 ### Lab 5
