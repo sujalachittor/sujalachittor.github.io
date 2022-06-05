@@ -16,11 +16,13 @@ Syntax highlighted code block
 
 ## Labs
 ### Lab 1
-- This lab involved downloading and setting up the software tools needed for this course and practicing using software tools, terminal or shell commands, keyboard shortcuts, and creating your first Node.js JavaScript file on the server-side. Click here to view Lab 1 and learn more about my process: [Lab 1](https://github.com/sujalachittor/cit281-lab1.git)
+- This lab involved downloading and setting up the software tools needed for this course and practicing using software tools, terminal or shell commands, keyboard shortcuts, and creating your first Node.js JavaScript file on the server-side. [Lab 1](https://github.com/sujalachittor/cit281-lab1.git)
 ### Lab 2
-- This lab involved directory and file manipulation and git commands through CLI commands. Click here to view Lab 2 and learn more about my process: [Lab 2]()
+- [Lab 2](https://github.com/sujalachittor/cit281-lab2.git)
 ### Lab 3
+- [Lab 3](https://github.com/sujalachittor/cit281-lab3.git)
 ### Lab 4
+- [Lab 4](https://github.com/sujalachittor/cit281-lab4.git)
 ### Lab 5
 ### Lab 6
 ### Lab 7
@@ -29,8 +31,9 @@ Syntax highlighted code block
 
 ## Projects
 ### Project 1
-[Project 1](https://sujalachittor.github.io/cit281-p1)
+- [Project 1](https://sujalachittor.github.io/cit281-p1)
 ### Project 2
+- [Project 2]()
 ### Project 3
 ### Project 4
 ### Project 5
