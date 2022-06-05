@@ -1,17 +1,5 @@
 ## My CIT 281 Work Portfolio
 
-This is my work portfolio for CIT 281. 
-
-You can use the [editor on GitHub](https://github.com/sujalachittor/sujalachittor.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
-
 # CIT 281 Labs and Projects
 
 ## Labs
@@ -20,7 +8,7 @@ Syntax highlighted code block
 ### Lab 2
 - This lab involved using CLI commands for directory and file manipulation as well as for git commands. The lab incorporated steps such as adding a file to git, ignoring files, and cloning cloud repos locally. Please click on this link to view my code and other information related to Lab 2: [Lab 2](https://github.com/sujalachittor/cit281-lab2.git)
 ### Lab 3
-- [Lab 3](https://github.com/sujalachittor/cit281-lab3.git)
+- This lab involved refactoring JavaScript code to work towards the goal of using more modern syntax. Some specific skills used in this lab include destructuring an object, making functions into arrow function expressions [Lab 3](https://github.com/sujalachittor/cit281-lab3.git)
 ### Lab 4
 - [Lab 4](https://github.com/sujalachittor/cit281-lab4.git)
 ### Lab 5
