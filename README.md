@@ -10,40 +10,31 @@
 ### Lab 3
 - This lab involved refactoring JavaScript code to work towards the goal of using more modern syntax. Some specific skills used in this lab include destructuring an object, making functions into arrow function expressions [Lab 3](https://github.com/sujalachittor/cit281-lab3.git)
 ### Lab 4
-- [Lab 4](https://github.com/sujalachittor/cit281-lab4.git)
+- [Lab 4](https://github.com/sujalachittor/cit281-lab4)
 ### Lab 5
+- [Lab 5](https://github.com/sujalachittor/cit281-lab5)
 ### Lab 6
+- [Lab 6](https://github.com/sujalachittor/cit281-lab6)
 ### Lab 7
+- [Lab 7](https://github.com/sujalachittor/cit281-lab7)
 ### Lab 8
+- [Lab 8](https://github.com/sujalachittor/cit281-lab8)
 ### Lab 9
+- [Lab 9](https://github.com/sujalachittor/cit281-lab9)
 
 ## Projects
 ### Project 1
 - [Project 1](https://sujalachittor.github.io/cit281-p1)
 ### Project 2
-- [Project 2]()
+- [Project 2](https://sujalachittor.github.io/cit281-p2)
 ### Project 3
+-[Project 3](https://sujalachittor.github.io/cit281-p3)
 ### Project 4
+-[Project 4](https://sujalachittor.github.io/cit281-p4)
 ### Project 5
+-[Project 5](https://sujalachittor.github.io/cit281-p5)
 ### Project 6
+-[Project 6](https://sujalachittor.github.io/cit281-p6)
 ### Project 7
+-[Project 7](https://sujalachittor.github.io/cit281-p7)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sujalachittor/sujalachittor.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
