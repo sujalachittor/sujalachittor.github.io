@@ -1,5 +1,6 @@
 ## My CIT 281 Work Portfolio
-![IMG_2973](https://user-images.githubusercontent.com/82883879/172034433-ebefc02f-9f0f-4c8f-a25b-de5a44e37ff6.JPG)
+![PROJ7IMAGESIZED](https://user-images.githubusercontent.com/82883879/172034490-a5d9f870-c8a1-4946-85cd-3bd5f5b87bac.JPG)
+
 
 # CIT 281 Labs and Projects
 
