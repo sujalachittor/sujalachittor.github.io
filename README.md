@@ -52,6 +52,7 @@ Please click on this link to view my code and other information related to Lab 3
 
 ## Labs
 ### Lab 1
+[Lab 1](https://github.com/sujalachittor/cit382-lab1/)
 
 
 
